@@ -1,6 +1,6 @@
 # Simulador de Sistemas Operacionais
 
-Projeto parcial para a disciplina de **Sistemas Operacionais**.
+Projeto MA para a disciplina de **Sistemas Operacionais**.
 
 ## 👨‍💻 Participantes
 - João Pedro Magrin 113164
